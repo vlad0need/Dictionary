@@ -3,14 +3,14 @@ h1{
 }
 #main{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 
 label{
     display: inline-block;
     width: 250px;
     margin-top: 10px;
-    font-size: 20px;
+    font-size: 18px;
 }
 .true{
     border: mediumseagreen 3px solid;
